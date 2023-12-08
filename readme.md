@@ -5,6 +5,6 @@
 
 - 4 đòn bảy giúp thực hiện những điều tưởng chừng là không thể :
   - Xác định những thứ `khen thưởng, hổ trợ và dạy` bạn.
-  - Liên tục suy nghĩ cách để điều chỉnh môi trường và hoàn cảnh.
-  - Đảm bảo mỗi bước thực hiện đền đem lại phần thưởng = PP mục tiêu này => công việc sẽ thú vị.
-  - Quản lý những thứ khiến ta mất tập trung.
+  - Liên tục suy nghĩ cách để điều chỉnh `môi trường và hoàn cảnh`.
+  - Đảm bảo `mỗi bước thực hiện đền đem lại phần thưởng` = PP mục tiêu này => công việc sẽ thú vị.
+  - Quản lý những thứ khiến ta`mất tập trung`.
