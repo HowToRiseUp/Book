@@ -1,3 +1,9 @@
+### Ts Lê Thẩm Dương dạy
+
+- Lập tức đưa ra KẾT LUẬN -> NGUYÊN NHÂN -> GIẢI PHÁP
+- Logic : VẤN ĐỀ -> SUY LUẬN (dựa vào thông tin) -> PHÂN TÍCH SUY LUẬN -> GIẢI PHÁP
+  - VD: Tui Không cưới cô này vì vì vì -> giải quyết vấn đề không cưới cô này như sau ... -> Giải quyết như thế vì..vì..vi
+
 ### INTRINSIC MOTIVATION -- `Stefan Falk`
 
 - Bạn phải hiểu thời gian chỉ dành cho những người cam kết sử dụng nó tốt hơn.
