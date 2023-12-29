@@ -1,13 +1,12 @@
-### Ts Lê Thẩm Dương dạy
+### Ts Lê Thẩm Dương dạy `~ Việc tốt -> Đối với n != như mày muốn họ đối sử mình -> Khiêm tốn -> Trung thực`
 
-- ~ Việc tốt -> Đối với n != như mày muốn họ đối sử mình -> Khiêm tốn -> Trung thực
 
 - Lập tức đưa ra KẾT LUẬN -> NGUYÊN NHÂN -> GIẢI PHÁP
 
 - Logic : VẤN ĐỀ -> SUY LUẬN (dựa vào thông tin) -> PHÂN TÍCH SUY LUẬN -> GIẢI PHÁP
   - VD: Tui Không cưới cô này vì vì vì -> giải quyết vấn đề không cưới cô này như sau ... -> Giải quyết như thế vì..vì..vi
 
-### INTRINSIC MOTIVATION -- `Stefan Falk` -- `Tập trung hồi phục năng lượng cơ thể`
+#### INTRINSIC MOTIVATION -- `Stefan Falk` -- `Tập trung hồi phục năng lượng cơ thể`
 
 1.  Quản lý kỳ vọng
 2.  Đặt chử đề ngày `kệ mẹ cái tương lai`
