@@ -1,7 +1,11 @@
-### Ts Lê Thẩm Dương dạy `~ Việc tốt -> Đối với n != như mày muốn họ đối sử mình -> Khiêm tốn -> Trung thực`
+### Draw Your Brain 'Hãy dành thời gian bên người bạn yêu quý'
+- `Đừng bỏ cuộc vì muốn sự thoải mái mà hãy cố gắng ...`
+- Memory Palace
+- Trì hoãn 'đến từ cảm xúc' <-> Khắc khe 'Vật nằm im sẽ nằm yên vật chuyển động sẽ chuyển động không ngừng'
 
+### Ts Lê Thẩm Dương dạy ~ <Việc tốt -> Đối với n != như mày muốn họ đối sử mình -> Khiêm tốn -> Trung thực>
 
-- Lập tức đưa ra KẾT LUẬN -> NGUYÊN NHÂN -> GIẢI PHÁP
+- Lập tức đưa ra `KẾT LUẬN -> NGUYÊN NHÂN -> GIẢI PHÁP`
 
 - Logic : VẤN ĐỀ -> SUY LUẬN (dựa vào thông tin) -> PHÂN TÍCH SUY LUẬN -> GIẢI PHÁP
   - VD: Tui Không cưới cô này vì vì vì -> giải quyết vấn đề không cưới cô này như sau ... -> Giải quyết như thế vì..vì..vi
