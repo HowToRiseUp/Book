@@ -3,6 +3,7 @@
 - **Đừng bỏ cuộc vì muốn sự thoải mái mà hãy cố gắng...**
 - Memory Palace
 - Trì hoãn 'đến từ cảm xúc' <-> Khắc khe 'Vật nằm im sẽ nằm yên, vật chuyển động sẽ chuyển động không ngừng'
+- Time Under Tension
 
 #### * Ts Lê Thẩm Dương dạy ~ <Việc tốt -> Đối với người khác != như mày muốn họ đối sử mình -> Khiêm tốn -> Trung thực>
 
