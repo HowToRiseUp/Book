@@ -1,4 +1,4 @@
-#### * Draw Your Brain - "Hãy dành thời gian bên người bạn yêu quý"
+#### * Draw Your Brain - "Hãy dành thời gian bên người bạn yêu quý" c
 
 - **Đừng bỏ cuộc vì muốn sự thoải mái mà hãy cố gắng...**
 - Memory Palace
