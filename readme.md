@@ -1,17 +1,18 @@
-#### * Draw Your Brain - "Hãy dành thời gian bên người bạn yêu quý"
+#### \* Draw Your Brain - "Hãy dành thời gian bên người bạn yêu quý"
 
 - **Đừng bỏ cuộc vì muốn sự thoải mái mà hãy cố gắng...**
 - Memory Palace
 - Trì hoãn 'đến từ cảm xúc' <-> Khắc khe 'Vật nằm im sẽ nằm yên, vật chuyển động sẽ chuyển động không ngừng'
 - Time Under Tension
 
-#### * Ts Lê Thẩm Dương dạy ~ <Việc tốt -> Đối với người khác != như mày muốn họ đối sử mình -> Khiêm tốn -> Trung thực>
+#### \* Ts Lê Thẩm Dương dạy ~ <Việc tốt -> Đối với người khác != như mày muốn họ đối sử mình -> Khiêm tốn -> Trung thực>
 
+- **Nghiến răng cho đồng đội ngủ lái xe đến cùng chuyện còn lại tính sao**
 - **Lập tức đưa ra `KẾT LUẬN -> NGUYÊN NHÂN -> GIẢI PHÁP`**
 - **Logic:** VẤN ĐỀ -> SUY LUẬN (dựa vào thông tin) -> PHÂN TÍCH SUY LUẬN -> GIẢI PHÁP
   - Ví dụ: Tôi không cưới cô này vì vì vì -> giải quyết vấn đề không cưới cô này như sau... -> Giải quyết như thế vì...vì..vi
 
-#### * INTRINSIC MOTIVATION -- Stefan Falk -- Tập trung hồi phục năng lượng cơ thể
+#### \* INTRINSIC MOTIVATION -- Stefan Falk -- Tập trung hồi phục năng lượng cơ thể
 
 1. Quản lý kỳ vọng
 2. Đặt chữ đề ngày `kệ mẹ cái tương lai`
