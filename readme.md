@@ -1,6 +1,6 @@
 ### Danh sách kiểm tra
 
-`BUÔN THẢ`
+`BUÔN THẢ VÀ TẬP TRUNG`
 
 `KẾT LUẬN -> NGUYÊN NHÂN -> GIẢI PHÁP`
 
