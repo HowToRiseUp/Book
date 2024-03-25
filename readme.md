@@ -1,4 +1,8 @@
-### HÍT THỞ
+### Search Inside Yourself
+
+- Tạo ra một ý định tốt đẹp
+- Buôn thả ( hãy kỳ vọng trước khi thiền và buôn thả trong lúc thiền)
+-
 
 #### \* Draw Your Brain - "Hãy dành thời gian bên người bạn yêu quý" ccc
 
