@@ -1,4 +1,17 @@
-### Search Inside Yourself
+### Danh sách kiểm tra
+
+`KẾT LUẬN -> NGUYÊN NHÂN -> GIẢI PHÁP`
+
+- Vấn đề là gì
+- từng bước thực hiện
+
+Cở thể ----------------------------------------
+
+- Ta có tổng kết được những gì ta biết không ?
+- Ta có buôn thả và tập trung không ?
+- Ta có thể dạy cho người khác không ?
+
+### Search Inside Yourself "CHADE-MENGTAN"
 
 - Tạo ra một ý định tốt đẹp
 - Buôn thả ( hãy kỳ vọng trước khi thiền và buôn thả trong lúc thiền)
@@ -21,12 +34,12 @@
 #### \* INTRINSIC MOTIVATION -- Stefan Falk -- Tập trung hồi phục năng lượng cơ thể
 
 1. Quản lý kỳ vọng
-2. Đặt chữ đề ngày `kệ mẹ cái tương lai`
+2. Đặt chữ đề ngày
 3. If-elseif-else
 4. Từng bước một (cắt -> cắt nữa -> làm tốt hết mức cái phần nhỏ đó)
 5. Đặt vấn đề -> Giải quyết vấn đề -> Kiểm tra cách giải quyết vấn đề
 6. Xem cái nào không tốt
-7. Tập thể dục `Vì cơ thể là đền thời`
+7. Tập thể dục
 8. Cải tiến liên tục
 9. Hiệu quả -> Thông minh -> Tiết kiệm thời gian `Xem xét kết quả thực tế có ứng với kỳ vọng hay không`
 
