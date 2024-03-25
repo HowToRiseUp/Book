@@ -7,8 +7,8 @@
 
 Cở thể ----------------------------------------
 
-- Ta có tổng kết được những gì ta biết không ?
 - Ta có buôn thả và tập trung không ?
+- Ta có tổng kết được những gì ta biết không ?
 - Ta có thể dạy cho người khác không ?
 
 ### Search Inside Yourself "CHADE-MENGTAN"
